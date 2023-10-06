@@ -43,7 +43,7 @@ Ruby on Rails
       <li><a href="https://react-redux.js.org/">React & Redux</a></li> 
     </ul>
   </details>
-<details>
+</details>
 
 
 <!-- Features -->
@@ -54,10 +54,6 @@ Ruby on Rails
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🚀 Live Demo & preview <a name="live-demo"></a>
-Coming soon...
- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
