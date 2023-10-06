@@ -30,7 +30,7 @@ const Greeting = () => {
           <h1>{greeting.greeting}</h1>
         </div>
       ) : null}
-      <button type="button"  className="fetch-button" onClick={handleFetchGreeting}>
+      <button type="button" className="fetch-button" onClick={handleFetchGreeting}>
         Change Message
       </button>
     </div>
